@@ -1,1 +1,1 @@
-My first read me
+A non empty readme was required
